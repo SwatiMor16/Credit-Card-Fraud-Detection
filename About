@@ -1,0 +1,4 @@
+This project focuses on identifying fraudulent credit card transactions using machine learning techniques. With the growing volume of digital payments, fraud detection has become crucial for financial institutions. The dataset used in this project is highly imbalanced, reflecting real-world scenarios where fraudulent transactions are rare but critical to detect.
+
+The goal of this project is to build a predictive model that can accurately distinguish between legitimate and fraudulent transactions, emphasizing high recall to minimize false negatives. This is achieved through thorough data preprocessing, exploratory analysis, model selection, and evaluation using appropriate metrics for imbalanced datasets.
+
